@@ -1,0 +1,414 @@
+*{
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+}
+
+.wrap{
+    width: 100%;
+    height: 1080px;
+    background-position: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto;
+}
+
+.logo{
+    width: 100%;
+    height: 250px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    top: 110px;
+}
+
+.port{
+    color: white;
+    font-family: Charter;
+    font-size: 150px;
+    font-weight: bold;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    top: 630px;
+}
+
+.line1{
+    position: absolute;
+    bottom: 150px;
+}
+
+.name{
+    position: absolute;
+    bottom: 50px;
+}
+
+.down{
+    position: absolute;
+    top: 980px;
+}
+
+
+section{
+    font-family: Gowun Batang;
+}
+
+.intro{
+    width: 100%;
+    height: 250px;
+    text-align: center;
+    justify-content: center;
+    background-position: center;
+    margin-top: 100px;
+}
+
+.my{
+    font-size: 60px;
+}
+
+.intro > a{
+    font-size: 40px;
+}
+
+.menubar{
+    width: 800px;
+    text-align: center;
+    justify-content: center;
+    background-position: center;
+    margin: 0 auto;
+}
+
+.line3{
+    width: 800px;
+    text-align: center;
+    justify-content: center;
+    background-position: center;
+    margin: 0 auto;
+    margin-top: 60px;
+}
+
+.menu{
+    font-size: 40px;
+    text-align: left;
+}
+
+.b1{
+    width: 400px;
+    margin: 0 auto;
+    text-align: left;
+    margin-left: 400px;
+    font-size: 22px;
+    position: absolute;
+}
+
+.school{
+    width: 100%;
+    height: 55px;
+}
+
+.gra{
+    width: 400px;
+    height: 55px;
+    text-align: right;
+    margin-left: 400px;
+    margin-top: 0%;
+}
+
+.b2{
+    width: 400px;
+    margin: 0 auto;
+    text-align: left;
+    margin-left: 400px;
+}
+
+.skill{
+    width: 100%;
+    height: 65px;
+}
+
+.b3{
+    width: 400px;
+    height: 150px;
+    margin: 0 auto;
+    text-align: left;
+    margin-left: 400px;
+}
+
+.email{
+    width: 100%;
+    height: 55px;
+    font-size: 22px;
+}
+
+.bar{
+    width: 100%;
+    height: 350px;
+    margin: 0 auto;
+}
+
+.bar1{
+    background-position: center;
+    justify-content: center;
+    text-align: center;
+}
+
+.title{
+    width: 1100px;
+    height: auto;
+    background-position: center;
+    justify-content: center;
+    margin: 0 auto;
+    font: bold 50px Gowun Batang;
+    margin-bottom: 80px;
+    
+}
+
+.picture{
+    margin-top: 45px;
+}
+
+.text{
+    font: normal 30px/50px Gowun Batang;
+}
+
+.line{
+    width: 100%;
+    height: 100px;
+    margin: 0 auto;
+    background-position: center;
+    justify-content: center;
+    text-align: center;
+    margin-top: 90px;
+}
+
+footer{
+    width: 100%;
+    height: 100px;
+    text-align: center;
+    position: absolute;
+    background-color: #4C4282;
+}
+
+.copy{
+    font: normal 15px/25px Gowun Batang;
+    color: white;
+    text-align: center;
+    margin-top: 25px;
+}
+
+
+
+
+
+
+
+
+
+.m_wrap{
+    width: 430px;
+    height: 932px;
+    background-position: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto;
+}
+
+.m_logo{
+    width: 170px;
+    height: 170px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    top: 110px;
+}
+
+.m_port{
+    color: white;
+    font-family: Charter;
+    font-size: 90px;
+    font-weight: bold;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    top: 570px;
+}
+
+.m_line1{
+    position: absolute;
+    bottom: 50px;
+}
+
+.m_name{
+    position: absolute;
+    top: 700px;
+}
+
+.m_down{
+    position: absolute;
+    top: 850px;
+}
+
+.m_intro{
+    width: 430px;
+    height: 100px;
+    text-align: center;
+    justify-content: center;
+    background-position: center;
+    margin: auto;
+    margin-top: 50px;
+}
+
+.m_my{
+    width: 358px;
+    height: auto;
+    margin-left: 36px;
+    font-size: 31px;
+}
+
+.m_line2{
+    width: 358px;
+    height: auto;
+    margin-left: 36px;
+}
+
+.m_intro > a{
+    font-size: 21px;
+    width: 358px;
+    height: auto;
+}
+
+.m_menubar{
+    width: 430px;
+    text-align: center;
+    justify-content: center;
+    background-position: center;
+    margin: 0 auto;
+}
+
+.m_line3{
+    width: 430px;
+    text-align: center;
+    justify-content: center;
+    background-position: center;
+    margin: 0 auto;
+    margin-top: 25px;
+}
+
+.m_menu{
+    font-size: 15px;
+    text-align: left;
+    margin-left: 36px;
+}
+
+.m_b1{
+    width: 215px;
+    margin: 0 auto;
+    text-align: left;
+    margin-left: 215px;
+    font-size: 12px;
+    position: absolute;
+}
+
+.m_school{
+    width: 100%;
+    height: 30px;
+}
+
+.m_gra{
+    width: 215px;
+    height: 30px;
+    text-align: right;
+    margin-left: 179px;
+    margin-top: 0%;
+}
+
+.m_b2{
+    width: 215px;
+    margin: 0 auto;
+    text-align: left;
+    margin-left: 215px;
+}
+
+.m_skill{
+    width: 100%;
+    height: 30px;
+}
+
+.m_b3{
+    width: 215px;
+    height: 150px;
+    margin: 0 auto;
+    text-align: left;
+    margin-left: 215px;
+}
+
+.m_email{
+    width: 100%;
+    height: 35px;
+    font-size: 12px;
+}
+
+.m_bg{
+    width: 430px;
+    height: auto;
+    margin: 0 auto;
+    background-color: #ededed;
+}
+
+.m_bar{
+    width: 430px;
+    height: 80px;
+    margin: auto;
+}
+
+.m_bar1{
+    width: 358px;
+    height: 80px;
+    margin-left: 36px;
+}
+
+.m_content{
+    width: 430px;
+    height: auto;
+    background-position: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto;
+}
+
+
+.footer{
+    width: 430px;
+    height: 100px;
+    align-items: center;
+    text-align: center;
+    background-position: center;
+    position: absolute;
+    background-color: #ededed;
+    margin: 0 auto;
+}
+
+.m_copy1{
+    width: 430px;
+    height: 50px;
+    text-align: center;
+    background-position: center;
+    align-items: center;
+    position: absolute;
+    background-color: #4C4282;
+    margin-top: 50px;
+}
+
+.m_copy2{
+    font: normal 10px/15px Gowun Batang;
+    color: white;
+    text-align: center;
+    margin-top: 10px;
+}
